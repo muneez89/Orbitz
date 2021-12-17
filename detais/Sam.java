@@ -6,6 +6,7 @@ public class Sam {
 
 		int a=5;
 		int c=10;
+		int w=10;
 	}
 
 }
